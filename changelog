@@ -1,0 +1,11 @@
+1.0.2
+-----
+Regular expression for search time improved.
+
+1.0.1
+-----
+AMQP logs ignored.
+
+1.0
+---
+Initial version.
