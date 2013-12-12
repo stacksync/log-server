@@ -58,7 +58,7 @@ This service has two different parts:
 
 The client uses a REST API to send the logs to the server. API specification:
 
-- URL structure: http://domain.ext/api/version
+- URL structure: http://domain.ext/api/logs
 - Parameters: The URL can be specified with the following optional query:
   
   | Field         | Description        |
